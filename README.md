@@ -1,3 +1,3 @@
-# Drink-Filter-flowmeter
+# Drink Filter flowmeter ESPHome
 
 Счетчики воды (импульсные) для фильтра обратного осмоса: сырая, чистая, минеральная.
